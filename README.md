@@ -1,4 +1,4 @@
-z3
+Z3Framework
 ==
 
 Z3 Project
